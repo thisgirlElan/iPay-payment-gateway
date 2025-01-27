@@ -164,7 +164,7 @@ export default App;
 
 ## Example App
 
-Explore our example app on [GitHub](https://github.com/thisgirlElan/iPay-payment-gateway.git) in the example folder for a comprehensive implementation guide.
+Explore our example app on [GitHub](https://github.com/thisgirlElan/iPay-payment-gateway/blob/master/example/src/App.jsx) in the example folder for a comprehensive implementation guide.
 
 ---
 
