@@ -40,7 +40,8 @@ const ExampleApp = () => {
         }}
         onPaymentInitiated={fields => console.log('Payment initiated:', fields)}
       />
-      
+
+      // single payment option is still under development
       <SinglePayment
         mode="mpesa"
         iPayAPI="https://payments.ipayafrica.com/v3/ke"
